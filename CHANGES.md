@@ -1,3 +1,7 @@
+### 0.12.3
+
+- Support the WebMachine 0.6.0+ interface (@avsm)
+
 ### 0.12.2 (2019-01-18)
 
 - Support the latest GitHub and Atd bindings (>=2.0.0) (@avsm)
